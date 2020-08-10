@@ -2,6 +2,7 @@
   "events": [
     {
       "id": 5928101,
+      "slug": "test-slugu",
       "user": {
         "id": "abc123",
         "name": "Adam"
@@ -17,6 +18,7 @@
     },
     {
       "id": 8419988,
+      "slug": "test-slugu-2",
       "user": {
         "id": "abc123",
         "name": "Adam"
@@ -32,6 +34,7 @@
     },
     {
       "id": 4582797,
+      "slug": "test-slugu-3",
       "user": {
         "id": "abc123",
         "name": "Adam"
